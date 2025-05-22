@@ -51,12 +51,12 @@ export const metadata = {
     images: ["https://yourportfolio.com/twitter-card.png"],
   },
   icons: {
-    icon: "/favicon.ico",
-    shortcut: "/favicon-16x16.png",
+    icon: "/favicon2.ico",
+    shortcut: "/favicon2-16x16.png",
     apple: "/apple-touch-icon.png",
   },
   themeColor: "#2563eb",
-  metadataBase: new URL("https://yourportfolio.com"),
+  metadataBase: new URL("https://portfolio-five-ruby-10.vercel.app/"),
   alternates: {
     canonical: "/",
   },
